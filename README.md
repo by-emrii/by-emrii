@@ -2,7 +2,7 @@
 I’m Emily, an aspiring Software Engineer Student from Academy Xi!
 
 ## 🧙🏻‍♀️Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/emily-c-4793051b4/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@emilychew) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/emily-c-4793051b4/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@emilychew) <br>
 📜 Have a read of my latest article about my ReactJS journey [here!](https://medium.com/@emilychew/crux-games-e-commerce-app-my-reactjs-project-journey-2acd6b53412f)
 
 ## 👩🏻‍💻Tech Stack
