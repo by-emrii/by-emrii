@@ -17,4 +17,4 @@ I’m Emily, an aspiring Software Engineer Student from Academy Xi!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=emilychewsh&icon=7&color=5)](https://visitcount.itsvg.in)
+## 👇 Check out my projects below
