@@ -8,8 +8,7 @@ My journey began by treating musculoskeletal injuries and helping people move pa
 
 ### 💫About Me
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="right" height="180px" width="auto" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="mario working overtime"></a>
+<img align="right" height="160px" width="auto" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="mario working overtime"></a>
 
 - 👨‍💻 I graduated from Academy Xi and am currently looking to join an amazing company as a Grad/Junior Software Engineer.
 - 🌱 I’m currently learning TypeScript and working on more JavaScript projects
