@@ -8,8 +8,6 @@ My journey began by treating musculoskeletal injuries and helping people move pa
 
 ### 💫About Me
 
-<img align="right" height="150px" width="auto" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="mario working overtime"></a>
-
 - 👨‍💻 I graduated from Academy Xi and am currently looking to join an amazing company as a Grad/Junior Software Engineer.
 - 🌱 I’m currently learning TypeScript and working on more JavaScript projects
 - 👾 I enjoy a mix of playing video games, board games, doing Pilates and hiking
@@ -22,6 +20,8 @@ My journey began by treating musculoskeletal injuries and helping people move pa
 <a href="https://twitter.com/codewithemilyc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithemilyc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emily-csh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emily-csh" height="30" width="40" /></a>
 <a href="https://medium.com/@emilychew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emilychew" height="30" width="40" /></a>
+
+<img align="right" height="180px" width="auto" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="mario working overtime"></a>
 
 ---
 
