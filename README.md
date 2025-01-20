@@ -1,15 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hanken+Grotesk&weight=500&letterSpacing=5px;&pause=1000&color=F0A6A4&multiline=true&width=435&lines=Hello%2C+%E4%BD%A0%E5%A5%BD%2C+Hai!+Welcome+to+my+profile+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
+
+I’m Emily, an Osteopath turned Software Engineer.
+
+My journey began by treating musculoskeletal injuries and helping people move pain-free. However, my passion for problem-solving and technology soon led me to the world of software engineering. I decided to dive in, committing to studying Software Engineering. Now, I’m focused on building web applications, learning new technologies, and growing in the field. I’m excited to collaborate and pursue a full-time career as a software developer!
+
 ---
 ### 💫About Me
 
-- 👨‍💻 I graduated from Academy Xi and currently looking to join an amazing company as a Grad/junior Software Engineer
-- 🌱 I’m currently learning TypeScript and more JavaScript projects
+- 👨‍💻 I graduated from Academy Xi and am currently looking to join an amazing company as a Grad/Junior Software Engineer.
+- 🌱 I’m currently learning TypeScript and working on more JavaScript projects
 - 👾 I enjoy a mix of playing video games, board games, doing Pilates and hiking
 - ⚡ Fun fact: I'm originally from Malaysia, home of the King of Fruits—the Durian, known for its strong smell and creamy texture. Some love it, some hate it.
-- 👨‍💻 My Portfolio website can be found [here](https://emilychewsh.github.io/emily-portfolio-website/)
-- 📝 I write articles on my learning/project journey on [Medium](https://medium.com/@emilychew)
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/emily-csh/)
+- 💻 Check out my Portfolio [here](https://emilychewsh.github.io/emily-portfolio-website/)
+- 📝 I write about my learning/project journey on [Medium](https://medium.com/@emilychew)
+- 📫 Let's get in touch! [LinkedIn](https://www.linkedin.com/in/emily-csh/)
 
 <h4>Connect with me:</h4>
 <a href="https://twitter.com/codewithemilyc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithemilyc" height="30" width="40" /></a>
