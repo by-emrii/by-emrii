@@ -11,7 +11,7 @@ My journey began by treating musculoskeletal injuries and helping people move pa
 <img align="right" height="160px" width="auto" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="mario working overtime"></a>
 
 - 👨‍💻 I graduated from Academy Xi and am currently looking to join an amazing company as a Grad/Junior Software Engineer.
-- 🌱 I’m currently learning TypeScript and working on more JavaScript projects
+- 🌱 I’m currently learning Node.js and working on more JavaScript projects
 - 👾 I enjoy a mix of playing video games, board games, doing Pilates and hiking
 - ⚡ Fun fact: I'm originally from Malaysia, home of the King of Fruits—the Durian, known for its strong smell and creamy texture. Some love it, some hate it.
 - 💻 Check out my Portfolio [here](https://emilychewsh.github.io/emily-portfolio-website/)
