@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hanken+Grotesk&weight=600&pause=1000&color=F0A6A4&multiline=true&width=435&lines=Hello!;%E4%BD%A0%E5%A5%BD!;Hai!;Welcome+to+my+profile+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
+
+
 ## 💫About Me
 
 - 👨‍💻 I graduated from Academy Xi and currently looking to join an amazing company as a Grad/junior Software Engineer
