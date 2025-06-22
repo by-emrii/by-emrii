@@ -77,7 +77,7 @@ My journey began by treating musculoskeletal injuries and helping people move pa
 
 ### 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emilychewsh&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=by-emrii&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
